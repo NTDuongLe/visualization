@@ -1,6 +1,6 @@
 Source: https://data.ontario.ca/dataset/ontario-top-baby-names-female
 
-Plot 1: 'Top 20 female baby names in Ontario 2023'
+Visualization 1: 'Top 20 female baby names in Ontario 2023'
 
 > What software did you use to create your data visualization?  
     - Python
